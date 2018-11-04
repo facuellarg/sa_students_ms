@@ -12,7 +12,7 @@ import javax.ws.rs.core.Response.ResponseBuilder;
 import javax.persistence.Entity;
 import java.net.URI;
 import java.util.List;
-
+//auth 
 @Path("/auth")
 public class AuthResource {
 
